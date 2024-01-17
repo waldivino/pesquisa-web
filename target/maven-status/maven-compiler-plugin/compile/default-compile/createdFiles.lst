@@ -1,0 +1,8 @@
+com\axreng\backend\service\PesquisaService.class
+com\axreng\backend\exception\PesquisaException.class
+com\axreng\backend\MainApp.class
+com\axreng\backend\model\PesquisaResults.class
+com\axreng\backend\model\PesquisaRequest.class
+com\axreng\backend\exception\KeywordValidaException.class
+com\axreng\backend\context\AppContext.class
+com\axreng\backend\controller\PesquisaController.class

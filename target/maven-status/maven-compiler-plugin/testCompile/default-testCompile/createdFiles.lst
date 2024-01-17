@@ -1,0 +1,4 @@
+com\axreng\backend\exception\KeywordValidaExceptionTest.class
+com\axreng\backend\controller\PesquisaControllerTest.class
+com\axreng\backend\exception\PesquisaExceptionTest.class
+com\axreng\backend\service\PesquisaServiceTest.class
